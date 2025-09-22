@@ -6,12 +6,12 @@ Includes presentation slides, architecture diagrams, and example metadata files.
 
 ## Contents
 - `/presentation` → Main slide deck (PDF).
-- `/examples` → Sample files (STAC Item).
-- `/diagrams` → UI and API Diagrams.
+- `/examples` → Sample STAC file (STAC Item).
+- `/diagrams` → UI,API Diagrams and UI Mockup.
 - `LICENSE.md` → Custom evaluation-only license.
 
 ## Overview
-This solution demonstrates how customers could:
+My solution demonstrates how customers could
 - Upload their private fuel maps via UI or API.
 - Map their fuel classes to OroraTech’s canonical scheme.
 - Normalize rasters into Cloud-Optimized GeoTIFF (COG).
@@ -21,6 +21,7 @@ This solution demonstrates how customers could:
    
 ## Next Steps
 - Prototype ingestion flow
+- Pilot
 - UI polish for non-technical users (dropdown class mapping)
 - Explore ESRI integration
 
@@ -29,4 +30,4 @@ as part of the OroraTech interview process.
 See [LICENSE.md](./LICENSE.md) for details.
 
 ## Use of GenAI
-Parts of this repository (e.g., README structure, LICENSE wording, and explanatory summaries) were drafted with the assistance of generative AI tools.  GenAI was used to create UI mockup drop-down table in slide 10 of presentation.
+Parts of this repository (README structure, LICENSE wording, and explanatory summaries) were drafted with the assistance of generative AI tools. GenAI was used to create UI mockup drop-down table in slide 10 of the presentation.
