@@ -6,7 +6,8 @@ Includes presentation slides, architecture diagrams, and example metadata files.
 
 ## Contents
 - `/presentation` → Main slide deck (PDF).
-- `/examples` → Sample files (mapping.json, STAC Item).
+- `/examples` → Sample files (STAC Item).
+- `/diagrams` → UI and API Diagrams.
 - `LICENSE.md` → Custom evaluation-only license.
 
 ## Overview
