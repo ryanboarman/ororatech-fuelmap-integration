@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "stac_version": "1.0.0",
+  "id": "fuelmap_demo_001",
+  "properties": {
+    "datetime": "2025-09-22T12:00:00Z",
+    "orora:tenant_id": "tenant_demo",
+    "orora:mapping_id": "lanfire_demo_2025",
+    "orora:canonical_version": "1.0",
+    "orora:class_histogram": { "OT01": 0.25, "OT03": 0.35, "OT05": 0.20, "OT09": 0.20 },
+    "gsd": 30,
+    "status": "READY"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [[
+      [-124.0, 42.0], [-114.0, 42.0], [-114.0, 32.0], [-124.0, 32.0], [-124.0, 42.0]
+    ]]
+  },
+  "bbox": [-124.0, 32.0, -114.0, 42.0],
+  "assets": {
+    "cog": {
+      "href": "https://storage.example.com/tenant_demo/cog/fuelmap_demo_001.tif",
+      "type": "image/tiff; application=geotiff; profile=cloud-optimized",
+      "title": "Fuel map (COG)"
+    }
+  },
+  "links": []
+}
