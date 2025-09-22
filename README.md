@@ -12,11 +12,11 @@ Includes presentation slides, architecture diagrams, and example metadata files.
 
 ## Overview
 This solution demonstrates how customers could:
-1. Upload their private fuel maps via UI or API.
-2. Map their fuel classes to OroraTech’s canonical scheme.
-3. Normalize rasters into Cloud-Optimized GeoTIFF (COG).
-4. Catalog datasets with STAC metadata.
-5. Automatically use custom fuel maps in fire spread simulations,
+- Upload their private fuel maps via UI or API.
+- Map their fuel classes to OroraTech’s canonical scheme.
+- Normalize rasters into Cloud-Optimized GeoTIFF (COG).
+- Catalog datasets with STAC metadata.
+- Automatically use custom fuel maps in fire spread simulations,
    falling back to the global dataset where needed.
    
 ## Next Steps
