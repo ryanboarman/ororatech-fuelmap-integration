@@ -29,4 +29,4 @@ as part of the OroraTech interview process.
 See [LICENSE.md](./LICENSE.md) for details.
 
 ## Use of GenAI
-Parts of this repository (e.g., README structure, LICENSE wording, and explanatory summaries) were drafted with the assistance of generative AI tools.  GenAI was used to create UI mock up drop-down table in slide 10 of presentation.
+Parts of this repository (e.g., README structure, LICENSE wording, and explanatory summaries) were drafted with the assistance of generative AI tools.  GenAI was used to create UI mockup drop-down table in slide 10 of presentation.
