@@ -26,3 +26,6 @@ This solution demonstrates how customers could:
 ## This repository is provided solely for evaluation purposes 
 as part of the OroraTech interview process. 
 See [LICENSE.md](./LICENSE.md) for details.
+
+## Use of GenAI
+Parts of this repository (e.g., README structure, LICENSE wording, and explanatory summaries) were drafted with the assistance of generative AI tools.  
